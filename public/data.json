@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/d4NF0Kp/data-analysis-results-summary-graph-chart-word-graphic.jpg",
+    "course_name": "Introduction to Programming",
+    "course_details": "Learn the fundamentals of programming languages and problem-solving techniques.",
+    "price": 49.99,
+    "credit": 3
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/KDXV7Kd/data-online-technology-internet-circuit-board-concept.jpg",
+    "course_name": "Web Development Bootcamp",
+    "course_details": "Become a full-stack web developer in this intensive bootcamp.",
+    "price": 199.99,
+    "credit": 6
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/Fq47zr2/top-view-world-science-day-arrangement-1.jpg",
+    "course_name": "Data Science Fundamentals",
+    "course_details": "Explore data analysis, machine learning, and data visualization.",
+    "price": 149.99,
+    "credit": 4
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/RD5L7Gb/collage-with-mountains-city.jpg",
+    "course_name": "Digital Marketing Essentials",
+    "course_details": "Learn the basics of digital marketing, including SEO and social media.",
+    "price": 79.99,
+    "credit": 2
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/NNjh2rk/top-view-laptop-glasses-with-copy-space.jpg",
+    "course_name": "Graphic Design Fundamentals",
+    "course_details": "Master the principles of graphic design and use popular design software.",
+    "price": 99.99,
+    "credit": 3
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/YtgMJwp/aerial-view-doctor-stethoscope-computer-laptop.jpg",
+    "course_name": "Business Strategy and Management",
+    "course_details": "Develop your business acumen and leadership skills.",
+    "price": 129.99,
+    "credit": 5
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/bHphdH4/horizontal-portrait-smiling-happy-young-pleasant-looking-female-wears-denim-shirt-stylish-glasses-wi.jpg",
+    "course_name": "Artificial Intelligence Fundamentals",
+    "course_details": "Explore the exciting field of AI and its applications.",
+    "price": 179.99,
+    "credit": 4
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/txBW5r6/modern-office-desk-composition.jpg",
+    "course_name": "Photography Basics",
+    "course_details": "Learn the art of photography and editing techniques.",
+    "price": 69.99,
+    "credit": 2
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/YtgMJwp/aerial-view-doctor-stethoscope-computer-laptop.jpg",
+    "course_name": "Spanish Language Immersion",
+    "course_details": "Immerse yourself in the Spanish language and culture.",
+    "price": 149.99,
+    "credit": 3
+  }
+]
