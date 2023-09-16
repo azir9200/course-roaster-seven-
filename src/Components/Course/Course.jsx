@@ -18,7 +18,6 @@ const Course = ({ handleAddToShoppingcart }) => {
 
   return (
     <div className="w-3/4" >
-      <h2>Course:{course.length} </h2>
 
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4" >
         {

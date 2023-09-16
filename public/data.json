@@ -2,7 +2,7 @@
   {
     "id": 1,
     "image": "https://i.ibb.co/pnrTqdf/Rectangle-2.png",
-    "course_name": "ntroduction to C Programming",
+    "course_name": "Introduction to C Programming",
     "course_details": "Learn the fundamentals of programming languages and problem-solving techniques.",
     "price": 49.99,
     "credit": 3
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "image": "https://i.ibb.co/8cMSK7f/Rectangle-2-1.png",
-    "course_name": "ntroduction to Algorithms",
+    "course_name": "Introduction to Algorithms",
     "course_details": "Become a full-stack web developer in this intensive bootcamp.",
     "price": 199.99,
     "credit": 6
